@@ -5,7 +5,7 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 - https://github.com/remzi-arpacidusseau/ostep-projects
 
 ## Might want to use in the _near_ future
-- https://github.com/sausheong/gwp
+- https://github.com/sausheong/gwp (**Go web programming**)
 - https://github.com/tuvtran/project-based-learning
 
 ## Not using at the moment
@@ -16,7 +16,8 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 ## Example Projects
 - https://github.com/auth0-blog/golang-angular
 - https://github.com/benbjohnson/wtf
-- https://gist.github.com/EvieePy/d78c061a4798ae81be9825468fe146be (**discord cogs**)
+- https://gist.github.com/EvieePy/d78c061a4798ae81be9825468fe146be (**discord.py cogs**)
+- https://gist.github.com/EvieePy/7822af90858ef65012ea500bcecf1612 (**discord.py error_handler**)
 
 ## Somewhat CP (DSA)
 - https://github.com/MTrajK/coding-problems
