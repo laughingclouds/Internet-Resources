@@ -16,6 +16,7 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 ## Example Projects
 - https://github.com/auth0-blog/golang-angular
 - https://github.com/benbjohnson/wtf
+- https://gist.github.com/EvieePy/d78c061a4798ae81be9825468fe146be (**discord cogs**)
 
 ## Somewhat CP (DSA)
 - https://github.com/MTrajK/coding-problems
