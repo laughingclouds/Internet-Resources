@@ -6,6 +6,7 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 
 - <https://github.com/remzi-arpacidusseau/ostep-projects>
 - <https://pages.cs.wisc.edu/~remzi/OSTEP/> **Operating systems**
+- <https://nptel.ac.in/courses/106/105/106105214/> **Operating systems video lectures**
 - <https://gaia.cs.umass.edu/kurose_ross/>  **Computer Networking**
 
 ## Might want to use in the _near_ future
