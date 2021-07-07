@@ -3,6 +3,7 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 
 ## Currently Using
 - https://github.com/remzi-arpacidusseau/ostep-projects
+- https://gaia.cs.umass.edu/kurose_ross/
 
 ## Might want to use in the _near_ future
 - https://github.com/sausheong/gwp (**Go web programming**)
