@@ -4,10 +4,20 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 
 ## Currently Using
 
-- <https://github.com/remzi-arpacidusseau/ostep-projects>
-- <https://pages.cs.wisc.edu/~remzi/OSTEP/> **Operating systems**
-- <https://nptel.ac.in/courses/106/105/106105214/> **Operating systems video lectures**
-- <https://gaia.cs.umass.edu/kurose_ross/>  **Computer Networking**
+### Computer Science
+#### Operating systems
+- <https://nptel.ac.in/courses/106/105/106105214/>**: Video course**
+- <https://pages.cs.wisc.edu/~remzi/OSTEP/>**: Book**
+- <https://github.com/remzi-arpacidusseau/ostep-projects>**: Projects**
+
+#### Computer Networking
+- <https://nptel.ac.in/courses/106/105/106105183/>**: Video course**
+- <https://gaia.cs.umass.edu/kurose_ross/>**: Video lectures plus book**
+
+### Mathematics
+#### Discrete Mathematics
+- <https://nptel.ac.in/courses/111/106/111106086/>**: Video course (This first?)** 
+- <https://nptel.ac.in/courses/106/106/106106183/>**: This is from the 'electives' portion**
 
 ## Might want to use in the _near_ future
 
