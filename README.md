@@ -13,6 +13,7 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 #### Computer Networking
 - <https://nptel.ac.in/courses/106/105/106105183/>**: Video course**
 - <https://gaia.cs.umass.edu/kurose_ross/>**: Video lectures plus book**
+- <https://nptel.ac.in/courses/106/105/106105081/>**: Old lectures**
 
 ### Mathematics
 #### Discrete Mathematics
