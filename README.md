@@ -1,6 +1,6 @@
 # LICENSE (FOR DUMMIES)
 
-Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/main/LICENSE) is meant for only the _links_ in this readme and not the projects themselves (i.e., forking this repo and changing the links into something else...I dunno why anyone would do that though). Please go through the licenses within _these_ projects or resources; if there are any, before trying anything funny with these projects.
+Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/main/LICENSE) is meant for only the _links_ in this readme and not the projects themselves (i.e., you can fork this repo and change the links to something else(like...to a dead link...I dunno why anyone would do that though)). Please go through the licenses within _these_ projects or resources; if there are any, before trying anything funny with these projects.
 
 ## Currently Using
 
