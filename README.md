@@ -6,6 +6,7 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 
 ### Computer Science
 #### Operating systems
+- <https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p>**: yt playlist...better than the rest**
 - <https://nptel.ac.in/courses/106/105/106105214/>**: Video course**
 - <https://pages.cs.wisc.edu/~remzi/OSTEP/>**: Book**
 - <https://github.com/remzi-arpacidusseau/ostep-projects>**: Projects**
