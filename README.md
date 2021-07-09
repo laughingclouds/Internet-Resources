@@ -11,6 +11,7 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 - <https://github.com/remzi-arpacidusseau/ostep-projects>**: Projects**
 
 #### Computer Networking
+- <https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV>**: yt playlist...better than the rest**
 - <https://nptel.ac.in/courses/106/105/106105183/>**: Video course**
 - <https://gaia.cs.umass.edu/kurose_ross/>**: Video lectures plus book**
 - <https://nptel.ac.in/courses/106/105/106105081/>**: Old lectures**
