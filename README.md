@@ -17,6 +17,11 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 - <https://gaia.cs.umass.edu/kurose_ross/>**: Video lectures plus book**
 - <https://nptel.ac.in/courses/106/105/106105081/>**: Old lectures**
 
+#### Databases
+- <https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y>**: yt playlist Gate Smashers**
+- <https://youtube.com/playlist?list=PLyvBGMFYV3auVdxQ1-88ivNFpmUEy-U3M>**: yt playlist IITK NPTEL**
+- <https://nptel.ac.in/courses/106/104/106104135/>**: Video course**
+
 ### Mathematics
 #### Discrete Mathematics
 - <https://nptel.ac.in/courses/111/106/111106086/>**: Video course (This first?)** 
