@@ -5,7 +5,8 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 ## Currently Using
 
 ### GATE
-- <https://www.youtube.com/c/GATEOverflowofficial/playlists>
+- <https://www.youtube.com/c/GATEOverflowofficial/playlists>**YT channel**
+- <https://gatecse.in/best-video-lectures-for-gate-cse/>**Website**
 
 ### Computer Science
 #### Operating systems
