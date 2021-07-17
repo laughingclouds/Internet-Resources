@@ -4,6 +4,9 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 
 ## Currently Using
 
+### GATE
+- <https://www.youtube.com/c/GATEOverflowofficial/playlists>
+
 ### Computer Science
 #### Operating systems
 - <https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p>**: yt playlist...better than the rest**
