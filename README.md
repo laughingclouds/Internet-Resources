@@ -4,9 +4,12 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 
 ## Currently Using
 
-### Golang
+### Programming
+#### Golang
 - <https://courses.calhoun.io/courses>**Free go programming course**
 - <https://gobyexample.com/>
+
+#### TODO: Add resources for C
 
 ### GATE
 - <https://www.youtube.com/c/GATEOverflowofficial/playlists>**YT channel**
