@@ -6,6 +6,7 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 
 ### Golang
 - <https://courses.calhoun.io/courses>**Free go programming course**
+- <https://gobyexample.com/>
 
 ### GATE
 - <https://www.youtube.com/c/GATEOverflowofficial/playlists>**YT channel**
