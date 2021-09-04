@@ -11,6 +11,10 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 
 #### TODO: Add resources for C
 
+### WannaDraw?
+#### xkcd
+- <https://xkcd.com/>**: Start from here?**
+
 ### GATE
 - <https://www.youtube.com/c/GATEOverflowofficial/playlists>**: YT channel**
 - <https://gatecse.in/best-video-lectures-for-gate-cse/>**: Website**
