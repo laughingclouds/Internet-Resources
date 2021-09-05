@@ -11,6 +11,10 @@ Hi dummy! This [LICENSE](https://github.com/r3a10god/Internet-Resources/blob/mai
 
 #### TODO: Add resources for C
 
+### Follow these tutorials
+- <https://youtu.be/cDNejBxZ0hI>**: How to create a Hastebin clone (node.js =_=) (Learn go for backend)**
+- <https://youtu.be/YS4e4q9oBaU>**: Golang for beginners FCC (hopefully this helps)**
+
 ### WannaDraw?
 #### xkcd
 - <https://xkcd.com/>**: Start from here?**
